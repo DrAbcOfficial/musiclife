@@ -1,0 +1,20 @@
+Mujinku-Vacuum Track#ADD8E6- (Taiko Easy)
+Mujinku-Vacuum Track#ADD8E6- (Taiko Extreme)
+Mujinku-Vacuum Track#ADD8E6- (Taiko Hard)
+Mujinku-Vacuum Track#ADD8E6- (Taiko Normal)
+Latitude (Taiko Easy)
+Latitude (Taiko Extreme)
+Latitude (Taiko Hard)
+Latitude (Taiko Normal)
+Sterelogue (taiko_easy)
+Sterelogue (taiko_extra)
+Sterelogue (taiko_extreme)
+Sterelogue (taiko_hard)
+Sterelogue (taiko_normal)
+Sweet Requiem Easy
+Sweet Requiem Extreme
+Sweet Requiem Hard
+Sweet Requiem Normal
+TechnicalMaster(Hard)
+TechnicalMaster(Extreme)
+TechnicalMaster(Easy)
